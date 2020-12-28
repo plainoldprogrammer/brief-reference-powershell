@@ -69,3 +69,8 @@ Ctrl + C
 ```
 > Rename-Item <old_name> <new_name>
 ```
+
+#### Execute a program
+```
+> Start-Process Program.exe
+```
