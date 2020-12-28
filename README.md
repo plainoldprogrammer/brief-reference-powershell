@@ -64,3 +64,8 @@ Ctrl + C
 ```
 > Move-Item <file> <directory>
 ```
+
+#### Rename a directory
+```
+> Rename-Item <old_name> <new_name>
+```
