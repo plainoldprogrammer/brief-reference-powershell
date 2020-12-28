@@ -54,3 +54,8 @@ Ctrl + C
 ```
 > Remove-Item -Recurse -Force <directory_name>
 ```
+
+#### Display the help of a command
+```
+> Help <command>
+```
