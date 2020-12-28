@@ -29,3 +29,8 @@ NOTE: Must have properly installed "oh-my-posh" module.
 ```
 Ctrl + C
 ```
+
+#### Get the version of the current powershell
+```
+> Get-Host | Select-Object Version
+```
