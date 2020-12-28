@@ -44,3 +44,8 @@ Ctrl + C
 ```
 > Remove-Item Program.cs
 ```
+
+#### Create a new directory
+```
+> New-Item -ItemType directory <directory_name>
+```
