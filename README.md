@@ -59,3 +59,8 @@ Ctrl + C
 ```
 > Help <command>
 ```
+
+#### Move a file into a directory
+```
+> Move-Item <file> <directory>
+```
