@@ -39,3 +39,8 @@ Ctrl + C
 ```
 > Out-File Program.cs
 ```
+
+#### Delete a file
+```
+> Remove-Item Program.cs
+```
