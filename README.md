@@ -34,3 +34,8 @@ Ctrl + C
 ```
 > Get-Host | Select-Object Version
 ```
+
+#### Create a new file
+```
+> Out-File Program.cs
+```
