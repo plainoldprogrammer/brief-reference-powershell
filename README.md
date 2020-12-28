@@ -74,3 +74,8 @@ Ctrl + C
 ```
 > Start-Process Program.exe
 ```
+
+#### Show all the files on the current directory
+```
+> Get-Item *
+```
