@@ -49,3 +49,8 @@ Ctrl + C
 ```
 > New-Item -ItemType directory <directory_name>
 ```
+
+#### Remove a directory recursively
+```
+> Remove-Item -Recurse -Force <directory_name>
+```
