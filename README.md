@@ -79,3 +79,8 @@ Ctrl + C
 ```
 > Get-Item *
 ```
+
+#### Open a new explorer window
+```
+> explorer
+```
