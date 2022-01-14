@@ -84,3 +84,8 @@ Ctrl + C
 ```
 > explorer
 ```
+
+#### Open a new explorer window on the current directory location
+```
+> explorer .
+```
