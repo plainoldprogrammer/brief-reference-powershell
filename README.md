@@ -89,3 +89,8 @@ Ctrl + C
 ```
 > explorer .
 ```
+
+#### Generate a file with a list of all files in a directory
+```
+Get-ChildItem "C:\Folder" | Select BaseName > C:\Folder\File.txt
+```
