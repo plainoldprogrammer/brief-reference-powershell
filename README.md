@@ -92,5 +92,10 @@ Ctrl + C
 
 #### Generate a file with a list of all files in a directory
 ```
-Get-ChildItem "C:\Folder" | Select BaseName > C:\Folder\File.txt
+> Get-ChildItem "C:\Folder" | Select BaseName > C:\Folder\File.txt
+```
+
+#### Read a file
+```
+> Get-Content File.txt
 ```
