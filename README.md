@@ -99,3 +99,8 @@ Ctrl + C
 ```
 > Get-Content File.txt
 ```
+
+#### Recicle the Recycle Bin
+```
+Clear-RecycleBin
+```
