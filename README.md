@@ -102,7 +102,7 @@ Ctrl + C
 
 #### Recicle the Recycle Bin
 ```
-Clear-RecycleBin
+> Clear-RecycleBin
 ```
 
 #### Update the help
