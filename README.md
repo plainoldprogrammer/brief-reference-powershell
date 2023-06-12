@@ -104,3 +104,8 @@ Ctrl + C
 ```
 Clear-RecycleBin
 ```
+
+#### Update the help
+```
+> Update-Help
+```
