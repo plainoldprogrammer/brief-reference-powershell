@@ -100,7 +100,7 @@ Ctrl + C
 > Get-Content File.txt
 ```
 
-#### Recicle the Recycle Bin
+#### Recycle the recycle bin
 ```
 > Clear-RecycleBin
 ```
