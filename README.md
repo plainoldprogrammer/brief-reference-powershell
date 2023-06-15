@@ -20,7 +20,7 @@ NOTE: Must have properly installed "oh-my-posh" module
 
 #### Change the default theme on the current session
 ```
-$ Set-Theme <theme-name>
+> Set-Theme <theme-name>
 
 NOTE: Must have properly installed "oh-my-posh" module.
 ```
