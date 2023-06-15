@@ -3,6 +3,11 @@ Brief reference of PowerShell.
 
 ---
 
+#### Delete the current line
+```
+Ctrl + C
+```
+
 #### List the current theme configuration
 ```
 > $ThemeSettings
@@ -23,11 +28,6 @@ NOTE: Must have properly installed "oh-my-posh" module
 > Set-Theme <theme-name>
 
 NOTE: Must have properly installed "oh-my-posh" module.
-```
-
-#### Delete the current line
-```
-Ctrl + C
 ```
 
 #### Get the version of the current powershell
