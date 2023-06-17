@@ -109,3 +109,8 @@ NOTE: Must have properly installed "oh-my-posh" module.
 ```
 > Update-Help
 ```
+
+#### Clear screen
+```
+> Clear-Host
+```
