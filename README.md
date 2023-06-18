@@ -35,6 +35,11 @@ NOTE: Must have properly installed "oh-my-posh" module.
 > Get-Host | Select-Object Version
 ```
 
+#### Update the help
+```
+> Update-Help
+```
+
 #### Create a new file
 ```
 > Out-File Program.cs
@@ -103,11 +108,6 @@ NOTE: Must have properly installed "oh-my-posh" module.
 #### Recycle the recycle bin
 ```
 > Clear-RecycleBin
-```
-
-#### Update the help
-```
-> Update-Help
 ```
 
 #### Clear screen
