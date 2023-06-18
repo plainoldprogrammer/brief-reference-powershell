@@ -8,11 +8,6 @@ Brief reference of PowerShell.
 Ctrl + C
 ```
 
-#### List the current theme configuration
-```
-> $ThemeSettings
-```
-
 #### Change the default theme on the configuration file
 ```
 $ notepad $PROFILE
@@ -21,6 +16,11 @@ Change the line:
 Set-Theme <theme-name>
 
 NOTE: Must have properly installed "oh-my-posh" module
+```
+
+#### List the current theme configuration
+```
+> $ThemeSettings
 ```
 
 #### Change the default theme on the current session
@@ -114,3 +114,4 @@ NOTE: Must have properly installed "oh-my-posh" module.
 ```
 > Clear-Host
 ```
+
