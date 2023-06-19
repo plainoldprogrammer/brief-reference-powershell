@@ -40,6 +40,11 @@ NOTE: Must have properly installed "oh-my-posh" module.
 > Update-Help
 ```
 
+#### Display the help of a command
+```
+> Help <command>
+```
+
 #### Create a new file
 ```
 > Out-File Program.cs
@@ -58,11 +63,6 @@ NOTE: Must have properly installed "oh-my-posh" module.
 #### Remove a directory recursively
 ```
 > Remove-Item -Recurse -Force <directory_name>
-```
-
-#### Display the help of a command
-```
-> Help <command>
 ```
 
 #### Move a file into a directory
