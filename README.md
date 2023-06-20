@@ -115,3 +115,7 @@ NOTE: Must have properly installed "oh-my-posh" module.
 > Clear-Host
 ```
 
+#### Get a full list of available commands
+```
+> Get-Command
+```
