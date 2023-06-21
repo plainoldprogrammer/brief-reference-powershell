@@ -42,7 +42,7 @@ NOTE: Must have properly installed "oh-my-posh" module.
 
 #### Display the help of a command
 ```
-> Help <command>
+> Get-Help <command>
 ```
 
 #### Create a new file
