@@ -119,3 +119,8 @@ NOTE: Must have properly installed "oh-my-posh" module.
 ```
 > Get-Command
 ```
+
+#### Add content to a specific file
+```
+> Add-Content	<file>
+```
