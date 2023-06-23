@@ -129,3 +129,8 @@ NOTE: Must have properly installed "oh-my-posh" module.
 ```
 > Get-ChildItem | Format-List
 ```
+
+#### Define a variable
+```
+> $A = Get-ChildItem
+```
