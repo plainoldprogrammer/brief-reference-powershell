@@ -124,3 +124,8 @@ NOTE: Must have properly installed "oh-my-posh" module.
 ```
 > Add-Content	<file>
 ```
+
+#### Pass the object from a cmdlet to another cmdlet
+```
+> Get-ChildItem | Format-List
+```
