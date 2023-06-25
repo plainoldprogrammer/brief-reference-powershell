@@ -45,6 +45,11 @@ NOTE: Must have properly installed "oh-my-posh" module.
 > Get-Help <command>
 ```
 
+#### Display a list of commands that supports get operation
+```
+> Get-Command Get-*
+```
+
 #### Create a new file
 ```
 > Out-File Program.cs
