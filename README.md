@@ -120,6 +120,11 @@ NOTE: Must have properly installed "oh-my-posh" module.
 > Get-Command
 ```
 
+#### Set a location
+```
+> Set-Location -Path "C:\Users\"
+```
+
 #### Add content to a specific file
 ```
 > Add-Content	<file>
