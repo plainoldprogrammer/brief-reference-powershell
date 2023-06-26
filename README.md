@@ -62,7 +62,7 @@ NOTE: Must have properly installed "oh-my-posh" module.
 
 #### Create a new directory
 ```
-> New-Item -ItemType directory <directory_name>
+> New-Item -ItemType Directory <directory_name>
 ```
 
 #### Remove a directory recursively
