@@ -144,3 +144,8 @@ NOTE: Must have properly installed "oh-my-posh" module.
 ```
 > $A = Get-ChildItem
 ```
+
+#### Unassign a variable
+```
+> $A = ""
+```
