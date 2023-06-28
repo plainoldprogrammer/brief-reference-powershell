@@ -149,3 +149,8 @@ NOTE: Must have properly installed "oh-my-posh" module.
 ```
 > $A = ""
 ```
+
+#### Get a list of the processes
+```
+> Get-Process
+```
