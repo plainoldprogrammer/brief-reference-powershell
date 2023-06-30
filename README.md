@@ -159,3 +159,8 @@ NOTE: Must have properly installed "oh-my-posh" module.
 ```
 > Get-Service "vm*"
 ```
+
+#### Convert the output of a cmdlet into html
+```
+> Get-ChildItem | ConvertTo-Html
+```
