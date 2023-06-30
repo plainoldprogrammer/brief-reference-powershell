@@ -154,3 +154,8 @@ NOTE: Must have properly installed "oh-my-posh" module.
 ```
 > Get-Process
 ```
+
+#### Get all services that begin with "xb"
+```
+> Get-Service "vm*"
+```
