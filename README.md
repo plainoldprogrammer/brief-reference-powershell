@@ -164,3 +164,8 @@ NOTE: Must have properly installed "oh-my-posh" module.
 ```
 > Get-ChildItem | ConvertTo-Html
 ```
+
+#### Get the current date
+```
+> Get-Date
+```
